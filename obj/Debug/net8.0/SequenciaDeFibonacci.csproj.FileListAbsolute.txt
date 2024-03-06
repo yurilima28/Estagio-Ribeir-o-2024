@@ -1,0 +1,14 @@
+C:\Users\yurin\OneDrive\Documentos\Estudo\SequenciaDeFibonacci\bin\Debug\net8.0\SequenciaDeFibonacci.exe
+C:\Users\yurin\OneDrive\Documentos\Estudo\SequenciaDeFibonacci\bin\Debug\net8.0\SequenciaDeFibonacci.deps.json
+C:\Users\yurin\OneDrive\Documentos\Estudo\SequenciaDeFibonacci\bin\Debug\net8.0\SequenciaDeFibonacci.runtimeconfig.json
+C:\Users\yurin\OneDrive\Documentos\Estudo\SequenciaDeFibonacci\bin\Debug\net8.0\SequenciaDeFibonacci.dll
+C:\Users\yurin\OneDrive\Documentos\Estudo\SequenciaDeFibonacci\bin\Debug\net8.0\SequenciaDeFibonacci.pdb
+C:\Users\yurin\OneDrive\Documentos\Estudo\SequenciaDeFibonacci\obj\Debug\net8.0\SequenciaDeFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yurin\OneDrive\Documentos\Estudo\SequenciaDeFibonacci\obj\Debug\net8.0\SequenciaDeFibonacci.AssemblyInfoInputs.cache
+C:\Users\yurin\OneDrive\Documentos\Estudo\SequenciaDeFibonacci\obj\Debug\net8.0\SequenciaDeFibonacci.AssemblyInfo.cs
+C:\Users\yurin\OneDrive\Documentos\Estudo\SequenciaDeFibonacci\obj\Debug\net8.0\SequenciaDeFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\yurin\OneDrive\Documentos\Estudo\SequenciaDeFibonacci\obj\Debug\net8.0\SequenciaDeFibonacci.dll
+C:\Users\yurin\OneDrive\Documentos\Estudo\SequenciaDeFibonacci\obj\Debug\net8.0\refint\SequenciaDeFibonacci.dll
+C:\Users\yurin\OneDrive\Documentos\Estudo\SequenciaDeFibonacci\obj\Debug\net8.0\SequenciaDeFibonacci.pdb
+C:\Users\yurin\OneDrive\Documentos\Estudo\SequenciaDeFibonacci\obj\Debug\net8.0\SequenciaDeFibonacci.genruntimeconfig.cache
+C:\Users\yurin\OneDrive\Documentos\Estudo\SequenciaDeFibonacci\obj\Debug\net8.0\ref\SequenciaDeFibonacci.dll
