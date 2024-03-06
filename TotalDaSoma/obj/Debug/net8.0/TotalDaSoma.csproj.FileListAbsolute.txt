@@ -1,0 +1,14 @@
+C:\Users\yurin\Downloads\TotalDaSoma\TotalDaSoma\bin\Debug\net8.0\TotalDaSoma.exe
+C:\Users\yurin\Downloads\TotalDaSoma\TotalDaSoma\bin\Debug\net8.0\TotalDaSoma.deps.json
+C:\Users\yurin\Downloads\TotalDaSoma\TotalDaSoma\bin\Debug\net8.0\TotalDaSoma.runtimeconfig.json
+C:\Users\yurin\Downloads\TotalDaSoma\TotalDaSoma\bin\Debug\net8.0\TotalDaSoma.dll
+C:\Users\yurin\Downloads\TotalDaSoma\TotalDaSoma\bin\Debug\net8.0\TotalDaSoma.pdb
+C:\Users\yurin\Downloads\TotalDaSoma\TotalDaSoma\obj\Debug\net8.0\TotalDaSoma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yurin\Downloads\TotalDaSoma\TotalDaSoma\obj\Debug\net8.0\TotalDaSoma.AssemblyInfoInputs.cache
+C:\Users\yurin\Downloads\TotalDaSoma\TotalDaSoma\obj\Debug\net8.0\TotalDaSoma.AssemblyInfo.cs
+C:\Users\yurin\Downloads\TotalDaSoma\TotalDaSoma\obj\Debug\net8.0\TotalDaSoma.csproj.CoreCompileInputs.cache
+C:\Users\yurin\Downloads\TotalDaSoma\TotalDaSoma\obj\Debug\net8.0\TotalDaSoma.dll
+C:\Users\yurin\Downloads\TotalDaSoma\TotalDaSoma\obj\Debug\net8.0\refint\TotalDaSoma.dll
+C:\Users\yurin\Downloads\TotalDaSoma\TotalDaSoma\obj\Debug\net8.0\TotalDaSoma.pdb
+C:\Users\yurin\Downloads\TotalDaSoma\TotalDaSoma\obj\Debug\net8.0\TotalDaSoma.genruntimeconfig.cache
+C:\Users\yurin\Downloads\TotalDaSoma\TotalDaSoma\obj\Debug\net8.0\ref\TotalDaSoma.dll
